@@ -11,3 +11,4 @@ To run this notebook you must have jupyter installed on your machine. You can in
 
 If you are downloading this repository, please ensure you copy the data available here [online retail data](https://github.com/RitRa/Programming-Project-Dec-2018/raw/master/Online-Retail.xls)
 
+[pandas](img/pandas_logo.png)
