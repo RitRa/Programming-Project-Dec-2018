@@ -13,8 +13,10 @@ If you are downloading this repository, please ensure you copy the data availabl
 
 
 Libraries used in this notebook include:
-- Pandas: Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+- **Pandas**: Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 ![pandas](img/pandas_logo.png)
-- NumPy: NumPy is the fundamental package for scientific computing with Python.
+
+- **NumPy**: NumPy is the fundamental package for scientific computing with Python.
 ![NumPy](img/numpy_logo.png)
-- Seaborn: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
+- **Seaborn**: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
