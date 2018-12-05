@@ -1,4 +1,4 @@
-# Programming Project Dec 2018
+# Online Retail Data set -  Project Dec 2018
 
 This repository contains a jupyter notebook with an investigation into Online Retail Data set.
 
